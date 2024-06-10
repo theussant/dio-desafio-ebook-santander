@@ -31,5 +31,4 @@ Midjourney：
 
 ## 📚 Materiais
 
-- Imagens utilizadas em `assets`
 - ebook gerado durante as aulas em `output`
