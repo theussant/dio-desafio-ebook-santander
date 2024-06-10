@@ -2,7 +2,7 @@
 
  > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso no qual fui aluno da [DIO](https://dio.me)
 
-<a href="" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="output/DIO - EBOOK - ROBOT.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
@@ -28,6 +28,7 @@ Midjourney：
 
 - Conteúdo gerado via ChatGPT
 - Imagens geradas via MidJourney
+- Montagem com o Canva
 
 ## 📚 Materiais
 
